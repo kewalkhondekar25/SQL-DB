@@ -1,0 +1,19 @@
+{
+  "name": "node-sql",
+  "version": "1.0.0",
+  "description": "nodejs app in sql",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b"
+  },
+  "keywords": [
+    "ts",
+    "sql"
+  ],
+  "author": "Kewal Khondekar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pg": "^8.11.5",
+    "pg": "^8.11.5"
+  }
+}

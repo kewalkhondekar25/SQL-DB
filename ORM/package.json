@@ -1,0 +1,25 @@
+{
+  "name": "orm",
+  "version": "1.0.0",
+  "description": "prisma orm postgresql ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b"
+  },
+  "keywords": [
+    "sql",
+    "postgresql",
+    "ts"
+  ],
+  "author": "Kewal Khondekar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "prisma": "^5.12.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.12.1"
+  }
+}

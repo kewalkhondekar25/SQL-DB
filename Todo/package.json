@@ -1,0 +1,25 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "a simple todo app using postgres prisma",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b"
+  },
+  "keywords": [
+    "ts",
+    "prisma",
+    "postgresql"
+  ],
+  "author": "Kewal Khondekar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "prisma": "^5.12.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.12.1"
+  }
+}
