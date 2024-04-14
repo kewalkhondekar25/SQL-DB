@@ -15,8 +15,8 @@ const insertUser = async (email: string, firstName: string, lastName: string, pa
 }
 
 insertUser(
-    "harry@magic.com",
-    "harry",
-    "potter",
-    "lumos"
+    "robert@bomb.com",
+    "robert",
+    "oppenhimer",
+    "plutonium"
 );
